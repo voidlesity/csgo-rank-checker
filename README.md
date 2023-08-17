@@ -1,6 +1,6 @@
 ## CS:GO Rank Checker
 
-This Python program extracts Steam IDs from the "status" command and opens CS:GO player stats on csgostats.gg for each ID.
+This Python program extracts Steam IDs from the "status" command and opens CS:GO player stats on scope.gg for each ID.
 
 ### How to install
 
@@ -21,7 +21,7 @@ This program performs the following tasks:
 
 1. Extracts Steam IDs from given "status" data.
 2. Converts extracted Steam IDs to SteamID64 format.
-3. Opens a web browser for each SteamID64, displaying CS:GO player statistics on csgostats.gg.
+3. Opens a web browser for each SteamID64, displaying CS:GO player statistics on scope.gg.
 
 ### How to Build It Yourself
 
