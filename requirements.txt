@@ -1,3 +1,2 @@
 clipboard
 pyinstaller
-selenium
